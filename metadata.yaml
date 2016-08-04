@@ -1,0 +1,50 @@
+_repo: The-Wallet-of-Kai-Lung_1076
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bramah, Ernest
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '529'
+    url: http://www.gutenberg.org/2009/agents/529
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Bramah
+description: "The Wallet of Kai Lung is a collection of fantasy stories by Ernest\
+  \ Bramah, all but the last of which feature Kai Lung, an itinerant story-teller\
+  \ of ancient China. It was first published in hardcover in London by Grant Richards\
+  \ in 1900, and there have been numerous editions since. Its initial tale, \"The\
+  \ Transmutation of Ling\", was also issued by the same publisher as a separate chapbook\
+  \ in 1911. The collection's importance in the history of fantasy literature was\
+  \ recognized by the anthologization of two of its tales in the celebrated Ballantine\
+  \ Adult Fantasy Series, edited by Lin Carter and published by Ballantine Books;\
+  \ \"The Vision of Yin\" in Discoveries in Fantasy (March, 1972), and \"The Transmutation\
+  \ of Ling\" in Great Short Novels of Adult Fantasy Volume II (March, 1973).\nAlthough\
+  \ the collection is presented in the fashion of a novel, with each of its component\
+  \ stories designated chapters, there is no overall plot aside from each of the first\
+  \ eight tales being presented as narratives told by Kai Lung at various points in\
+  \ his itinerant career. The final tale is represented as being from a manuscript\
+  \ left by its own separate first-person narrator, Kin Yen.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1076'
+  wikidata: Q7773338
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Kai Lung (Fictitious character) -- Fiction'
+- GITenberg
+tableOfContents: The transmutation of Ling -- The story of Yung Chang -- The probation
+  of Sen Heng -- The experiment of the Mandarin Chan Hung -- The confession of Kai
+  Lung -- The vengeance of Tung Fel -- The career of the charitable Quen-Ki-Tong --
+  The vision of Yin, the song of Yat Huang -- The ill-regulated destiny of Kin Yen,
+  the picture-maker.
+title: The Wallet of Kai Lung
+url: http://www.gutenberg.org/ebooks/1076
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Wallet_of_Kai_Lung
