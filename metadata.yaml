@@ -1,5 +1,8 @@
 _repo: The-Wallet-of-Kai-Lung_1076
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bramah, Ernest
@@ -24,6 +27,8 @@ description: "The Wallet of Kai Lung is a collection of fantasy stories by Ernes
   \ his itinerant career. The final tale is represented as being from a manuscript\
   \ left by its own separate first-person narrator, Kin Yen.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1076#The-Wallet-of-Kai-Lung
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '1997-10-01'
 gutenberg_type: Text
